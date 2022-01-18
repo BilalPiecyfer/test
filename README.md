@@ -1,2 +1,2 @@
-# test
-test practice repo
+# Python Version
+###   python 3.7.o
